@@ -1,0 +1,26 @@
+{
+  "name": "11do11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   
+    "start": "node index.js",
+    "dev": "node -- watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielabritog2010-max/11do11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielabritog2010-max/11do11/issues"
+  },
+  "homepage": "https://github.com/gabrielabritog2010-max/11do11#readme",
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "express": "^5.3.0"
+  }
+}
